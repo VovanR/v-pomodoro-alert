@@ -17,6 +17,8 @@ basher install vovanr/v-pomodoro-alert
 ## Use with Xubuntu
 Install `xfce4-timer-plugin`
 
+![](preview.png)
+
 
 ## License
 MIT © [Vladimir Rodkin](https://github.com/VovanR)
